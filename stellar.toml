@@ -1,0 +1,18 @@
+# Stellar Token Metadata Dosyası
+
+VERSION="2.0"
+
+# İletişim Bilgileri
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+FEDERATION_SERVER="https://yourdomain.com/federation"
+AUTH_SERVER="https://yourdomain.com/auth"
+TRANSFER_SERVER="https://yourdomain.com/transfer"
+SIGNING_KEY="GAEXAMPLEPUBLICKEY"
+
+# Token Bilgileri
+[[CURRENCIES]]
+code="TURKCOIN"
+issuer="GB6KRLAOF33PC3RJYBTTYH6AT5PAPBPLKQJQSMU3BP7XALURFWZML7KA"
+status="live"
+display_decimals=7
+anchor_asset_type="crypto"
