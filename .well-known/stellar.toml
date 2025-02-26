@@ -1,19 +1,19 @@
-# Stellar Token Metadata Dosyası
+# Stellar ağındaki token bilgilerini içerir.
 
-VERSION="2.0"
-
-# İletişim Bilgileri
-NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
-FEDERATION_SERVER="https://yourdomain.com/federation"
-AUTH_SERVER="https://yourdomain.com/auth"
-TRANSFER_SERVER="https://yourdomain.com/transfer"
-SIGNING_KEY="GAEXAMPLEPUBLICKEY"
+# Genel Organizasyon Bilgileri
+[DOCUMENTATION]
+ORG_NAME="Turkish Token"
+ORG_DBA="TRK Token"
+ORG_URL="https://onur5355.github.io/TRK/"
+ORG_LOGO="https://onur5355.github.io/TRK/logo.png"
+ORG_DESCRIPTION="The official token of TRK on Stellar"
+ORG_TWITTER="TRKToken"
+ORG_GITHUB="https://github.com/onur5355/TRK"
 
 # Token Bilgileri
 [[CURRENCIES]]
-code="TURKCOIN"
-issuer="GB6KRLAOF33PC3RJYBTTYH6AT5PAPBPLKQJQSMU3BP7XALURFWZML7KA"
+code="TurkCoin"
+issuer="GCAI4LK7Y4WKXM4P6FCNSRXZCX7AX66C3QE47NLZXBSWCKR2F3362APA"  # Stellar Token Adresi (Değiştir!)
 status="live"
-display_decimals=7
-anchor_asset_type="crypto"
-
+display_decimals=2
+image="https://onur5355.github.io/TRK/token-icon.png"
