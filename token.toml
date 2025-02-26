@@ -1,0 +1,12 @@
+[DOCUMENTATION]
+ORG_NAME="Turkish Token"
+ORG_URL="https://onur5355.github.io/TRK/"
+ORG_DESCRIPTION="The official token of TRK on Stellar"
+ORG_LOGO="https://onur5355.github.io/TRK/logo.png"
+
+[[CURRENCIES]]
+code="TurkCoin"  # Token Kodu
+issuer="GCAI4LK7Y4WKXM4P6FCNSRXZCX7AX66C3QE47NLZXBSWCKR2F3362APA"  # Stellar Token Adresi (Değiştir!)
+status="live"  # "live" veya "test"
+display_decimals=2  # Virgülden sonra kaç basamak gösterilecek
+image="https://onur5355.github.io/TRK/token-icon.png"
